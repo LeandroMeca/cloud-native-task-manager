@@ -4,7 +4,7 @@ Para garantir escalabilidade, persistência de dados e processamento eficiente, 
 
 O diagrama abaixo ilustra o fluxo de dados e a divisão de responsabilidades entre os componentes:
 
-![Arquitetura AWS](./nome-da-sua-imagem.png) *(Nota: Substitua pelo caminho e nome real da imagem que você exportou do Draw.io)*
+![Arquitetura AWS](./fluxo/awsTranspa.gif) *(Nota: Substitua pelo caminho e nome real da imagem que você exportou do Draw.io)*
 
 ---
 
