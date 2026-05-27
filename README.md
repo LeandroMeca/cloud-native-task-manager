@@ -1,5 +1,11 @@
 ## 🏗️ Arquitetura de Nuvem (AWS)
 
+> 💡 **Nota do Projeto:** Este repositório é dedicado exclusivamente à documentação e ao desenho da infraestrutura em nuvem. 
+> 
+> 🔗 **Para ver o código-fonte da API, o Frontend e os Pipelines de automação (QA), acesse o repositório principal:** [TaskFlow-QA-Platform](https://github.com/LeandroMeca/TaskFlow-QA-Platform)
+
+---
+
 Para garantir escalabilidade, persistência de dados e processamento eficiente, a infraestrutura de produção do **Task Manager API** foi desenhada utilizando os serviços de computação em nuvem da **Amazon Web Services (AWS)**. 
 
 O diagrama abaixo ilustra o fluxo de dados e a divisão de responsabilidades entre os componentes:
